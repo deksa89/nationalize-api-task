@@ -1,0 +1,30 @@
+.prazni{
+    font-size: 15px;
+    color: red;
+}
+
+.kreirani-div{
+    position: relative;
+    top: 25px;
+    font-size: 15px;
+    color: rgb(255, 242, 0);
+}
+
+.prethodni-rez{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+
+}
+
+.button{
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px;
+}
